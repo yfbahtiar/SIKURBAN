@@ -2,8 +2,9 @@
 Note
 ###################
 lokasi db : bahan/db/sikurban.sql
-level user : username-password /redirectPage
 
+level user : username-password /redirectPage
+-----------------
 (1) admin : admin-admin /admin
 (2) erte1 : erte1-inputdata /rt1
 (3) erte2 : erte2-inputdata /rt2
