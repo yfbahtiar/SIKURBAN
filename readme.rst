@@ -8,6 +8,7 @@ level user : username-password /redirectPage
 (3) erte2 : erte2-inputdata /rt2
 (4) erte3 : erte3-inputdata /rt3
 (5) bendahara_sapi : bendahara_sapi-bendahara_sapi /bendahara_sapi
+(6) operator : operator-operator /operator
 
 ###################
 What is CodeIgniter
