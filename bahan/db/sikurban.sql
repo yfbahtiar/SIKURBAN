@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Host: 127.0.0.1
--- Generation Time: Oct 02, 2021 at 10:42 AM
+-- Generation Time: Oct 03, 2021 at 07:39 AM
 -- Server version: 10.4.14-MariaDB
 -- PHP Version: 7.2.34
 
@@ -54,6 +54,7 @@ CREATE TABLE `kas` (
   `id` int(11) NOT NULL,
   `tgl` date NOT NULL,
   `keterangan` varchar(100) NOT NULL,
+  `nama_pembayaran` varchar(7) NOT NULL,
   `warga_id` int(11) DEFAULT NULL,
   `masuk` int(11) NOT NULL,
   `keluar` int(11) NOT NULL
