@@ -1,6 +1,7 @@
 ###################
 Note
 ###################
+lokasi db : bahan/db/sikurban.sql
 level user : username-password /redirectPage
 
 (1) admin : admin-admin /admin
