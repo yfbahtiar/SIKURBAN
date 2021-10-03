@@ -1,4 +1,11 @@
 ###################
+Note
+###################
+Username, redirect to :
+
+(1) admin : admin-admin /admin
+
+###################
 What is CodeIgniter
 ###################
 
