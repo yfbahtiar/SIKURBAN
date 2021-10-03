@@ -4,6 +4,7 @@ Note
 Username, redirect to :
 
 (1) admin : admin-admin /admin
+(2) erte1 : erte1-inputdata /rt1
 
 ###################
 What is CodeIgniter
