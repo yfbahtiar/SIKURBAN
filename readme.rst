@@ -1,10 +1,13 @@
 ###################
 Note
 ###################
-Username, redirect to :
+level user : username-password /redirectPage
 
 (1) admin : admin-admin /admin
 (2) erte1 : erte1-inputdata /rt1
+(3) erte2 : erte2-inputdata /rt2
+(4) erte3 : erte3-inputdata /rt3
+(5) bendahara_sapi : bendahara_sapi-bendahara_sapi /bendahara_sapi
 
 ###################
 What is CodeIgniter
